@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const URI = 'mongodb://127.0.0.1/petfood';
+const URI = 'mongodb+srv://npdevelopment:a7toxdY8tlmVnYRJ@cluster0.wmbffnw.mongodb.net/?retryWrites=true&w=majority';
 
 //mongoose.set('useNewUrlParser',true);
 //mongoose.set('useFindAndModify',false);
